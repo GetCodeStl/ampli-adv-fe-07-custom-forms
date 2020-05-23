@@ -120,7 +120,7 @@ a {
     font-size: 1em;
     background: none;
     border: 1px solid 
-    border-radius: 4px;
+    border-radius 4px;
     transition: all 0.2s;
     &:hover {
       font-weight: 700;
@@ -129,7 +129,7 @@ a {
 }
 
 input[type="email"],
-input[type="username"],
+input[type="user"],
 input[type="password"] {
   position: relative;
   font-family: sans-serif;
